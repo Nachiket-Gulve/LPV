@@ -1,0 +1,24 @@
+seaarch download mingw
+>sourceforge.net 
+>download first file iykyk
+>fail?> same site x86_64-win32-sjlj file download
+>extract >copy paste to C:\
+>Win> edit environ var
+>Adv >envir var
+>2nd part go to path>Edit
+>New> C:\mingw64 >OkOkOk
+#C:\mingw64\bin
+
+>command prompt
+>gcc --version
+>bubble n merge.cpp file save in mingw64
+>cd C:\mingw64
+>gcc filename -o outputname.exe 
+>outputname.exe
+!!!!tada
+
+Alt
+>gcc --version
+>g++ -fopenmp filename.cpp -o outputname.exe
+>outputname
+!!!!Tada
